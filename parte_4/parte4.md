@@ -34,3 +34,7 @@ El flujo de trabajo en Git sigue tres pasos progresivos:
 Porque Git es un sistema distribuido y local. No necesitas estar conectado a internet ni subir cambios a la nube cada vez que terminas una tarea pequeña.
 
 Puedes realizar un commit por cada avance lógico en tu máquina (por ejemplo: un commit para estructurar la base de datos, otro para crear la interfaz y otro para solucionar un error). Una vez que completas un bloque de trabajo funcional o concluyes tu jornada, envías todo el paquete de commits a GitHub de un solo viaje con un "git push"
+
+
+
+pequeña modificacion ya que se subio con el 2 antes
